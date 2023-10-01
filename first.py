@@ -8,7 +8,7 @@ b = "Salome" # str string
 c = a # equals to variable
 
 print("Hello World") # function that already exists
-
+print(11000)
 def custom_function(): # custom function
     print("Hello World From Custom Function")
 
